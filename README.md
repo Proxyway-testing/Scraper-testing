@@ -4,8 +4,8 @@
 Follow these steps to set up the project locally: 
 ### 1. Prerequisites  
 - Python 3.11+ installed on your system. 
-- -  `git` installed. 
-- 
+- `git` installed.
+
 ### 2. Clone the Repository  
 `bash git clone https://github.com/your-username/your-repo-name.git` 
 `cd your-repo-name`
