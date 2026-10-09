@@ -7,7 +7,7 @@ Follow these steps to set up the project locally:
 - `git` installed.
 
 ### 2. Clone the Repository  
-`git clone https://github.com/your-username/your-repo-name.git` 
+`git clone https://github.com/Proxyway-testing/Scraper-testing.git` 
 `cd your-repo-name`
 Create and activate an isolated Python environment:
 
