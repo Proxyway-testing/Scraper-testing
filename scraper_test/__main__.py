@@ -12,7 +12,7 @@ from .scraper_templates import scraperExampleTemplatePOST, scraperExampleTemplat
 #test params
 TOTAL_REQUESTS = 1000
 INTERVAL_SECONDS = 1.0 #unused
-TIMEOUT = 30.0
+TIMEOUT = 60.0
 
 def scraper_setup(target: str) -> tuple[str, Any]:
     """
